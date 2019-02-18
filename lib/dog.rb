@@ -8,6 +8,9 @@ def Dog.name
   @name
 end
 
+def Dog.bark
+  puts "woof!"
+
 
 
 
